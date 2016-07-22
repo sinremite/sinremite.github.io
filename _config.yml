@@ -1,0 +1,52 @@
+
+# Syntax highlighting
+markdown:            kramdown
+highlighter:         rouge
+
+# Permalinks
+permalink:           /:title
+#relative_permalinks: true
+
+# Setup
+timezone:            Europe/Spain # eg. Asia/Kathmandu
+locale:              es # eg. en_us
+name:				         Sin remite
+title:               Sin remite
+tagline:             'tagline'
+description:         'description'
+url:                 https://sinremite.github.io
+rss:                 
+baseurl:             '/'
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+icon:                # /assets/img/icon.png [best 300px X 300px]
+disqus:              # get it on https://disqus.com/admin/
+
+author:
+  name:           	 M
+  url:            	 https://sinremite.github.io
+  facebook:          
+  twitter:           
+  google_plus:       
+  linkedin:          
+  dribbble:          
+  pinterest:         
+  kiva:              
+
+fb_admins:           
+fb_appid:            
+
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
