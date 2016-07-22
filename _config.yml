@@ -11,7 +11,7 @@ permalink:           /:title
 timezone:            Europe/Spain # eg. Asia/Kathmandu
 locale:              es # eg. en_us
 name:				         Sin remite
-title:               Sin remite
+title:               Con amor
 tagline:             'tagline'
 description:         'description'
 url:                 https://sinremite.github.io
@@ -25,7 +25,7 @@ icon:                # /assets/img/icon.png [best 300px X 300px]
 disqus:              # get it on https://disqus.com/admin/
 
 author:
-  name:           	 M
+  name:           	 
   url:            	 https://sinremite.github.io
   facebook:          
   twitter:           
