@@ -7,7 +7,7 @@ excerpt: "¿Qué tal todo por casa? Os echo mucho de menos, los días se me ha
 categories: marcos
 tags:  marcos
 image:
-  feature: que-tal-todo-por-casa.jpg
+  feature: que_tal_todo_por_casa.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
