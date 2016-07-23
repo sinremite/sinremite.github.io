@@ -51,11 +51,11 @@
 </g>
 <g id="Layer_3">
 	<g>
-		<path fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="M7.745,121.433
+		<path fill="none" stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" d="M7.745,121.433
 			c0-62.772,50.882-113.652,113.652-113.652c62.782,0,113.651,50.88,113.651,113.652c0,62.771-50.869,113.651-113.651,113.651
 			C58.627,235.084,7.745,184.204,7.745,121.433z"/>
 		
-			<polyline fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			<polyline fill="none" stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 			146.773,71.249 81.198,121.424 146.773,171.539 		"/>
 	</g>
 </g>
