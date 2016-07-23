@@ -2908,11 +2908,15 @@ body {
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;
   margin: 0 0 5em 0;
-  padding: 0 0.25em 0 0.25em;
+  padding: 0 0.25em 0.5em 0.25em;
   background-size: 100%;
   background-position: 0;
   opacity: 1;
-  width: 90%;
+  width: 100%;
+}
+
+.titleh1 {
+  font-family: 'Lobster', cursive;
 }
 
 
