@@ -22,7 +22,7 @@ baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
 icon:                # /assets/img/icon.png [best 300px X 300px]
-disqus:              # get it on https://disqus.com/admin/
+disqus:              sinremite
 
 author:
   name:           	 

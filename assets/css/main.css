@@ -2893,3 +2893,35 @@ body {
     display: none !important;
   }
 }
+
+/**************************************/
+/**           MY OWN STYLES          **/
+/**************************************/
+
+.blackh1 {
+  font-family: 'Lobster', cursive;
+  position: absolute;
+  top: 132px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: $zIndex-5--textlogo-frontpage;
+  margin: 0;
+  background-size: 100%;
+  background-position: 0;
+  opacity: 1;
+}
+
+
+.whiteSidebar {
+  color: white;
+  font-family: 'Lobster', cursive;
+  width: 100%;
+  height: auto;
+  background-size: contain;
+  background-position: center;
+  opacity: 0.8;
+
+  &:hover {
+    opacity: 1;
+  }
+}
