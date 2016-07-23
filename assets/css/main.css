@@ -2901,13 +2901,14 @@ body {
 .blackh1 {
   display: inline-block;
   font-family: 'Lobster', cursive;
+  font-size: 4em;
   position: absolute;
   top: 132px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;
   margin: 0 0 5em 0;
-  padding: 0 0.25em 0.75em 0.25em;
+  padding: 0 0.25em 0 0.25em;
   background-size: 100%;
   background-position: 0;
   opacity: 1;
