@@ -2899,16 +2899,18 @@ body {
 /**************************************/
 
 .blackh1 {
+  display: inline-block;
   font-family: 'Lobster', cursive;
   position: absolute;
   top: 132px;
   left: 50%;
   transform: translateX(-50%);
   z-index: $zIndex-5--textlogo-frontpage;
-  margin: 0;
+  margin: 0 0 5em 0;
   background-size: 100%;
   background-position: 0;
   opacity: 1;
+  width: 100%;
 }
 
 
