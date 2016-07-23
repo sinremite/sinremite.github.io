@@ -1,5 +1,5 @@
 <nav role="navigation" class="sidebar sidebar--right">
-  <h2 class="whiteSidebar">{{ site.name }}</h2>
+  <a href="{{ site.url }}"><h2 class="whiteSidebar">{{ site.name }}</h2></a>
   <ul class="sidebar-recentPosts">
     {% for post in site.posts offset:0 limit:10 %}
       {% if post.title == page.title %}
