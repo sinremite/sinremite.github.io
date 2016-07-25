@@ -35,6 +35,6 @@ No será sencillo ni fácil, ni tampoco carecerá de momentos de dolor, pero cua
 
 <blockquote class="largeQuote">"Por puro destino jamás, será por sinceridad."</blockquote>
 
-Por puro destino jamás, será por sinceridad. Pues el que entrega el alma a sus sueños y a sus sentimientos está destinado a sufrir la crueldad del porvenir, pero también al más bonito de los gozos, aquel de arriesgar y conseguir lo que se ama, pues sin riesgo y sinceridad tenemos ya el más amargo de los finales, la mentira, la mentira a uno mismo.
+Por puro destino jamás, será por sinceridad. Pues el que entrega el alma a sus sueños y a sus sentimientos está destinado a sufrir la crueldad del porvenir, pero también el más bonito de los gozos, aquel de arriesgar y conseguir lo que se ama, pues sin riesgo y sinceridad tenemos ya el más amargo de los finales, la mentira, la mentira a uno mismo.
 
 Bienvenida a mi hogar Laura, Marcos.
