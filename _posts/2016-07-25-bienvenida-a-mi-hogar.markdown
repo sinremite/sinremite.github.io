@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Por fin Laura!
+**Por fin** Laura!
 
 Después de leer tu última carta me siento mucho mejor, que curiosos somos, y que dichosos. Podemos complicar el lenguaje, darle mil y una acepciones a cada palabra, a cada conjunción y no encontrar la valentía de disfrutar de los matices que nos ofrecen.
 
